@@ -9,7 +9,7 @@ development and will be linked when complete.
 
 ####Use
 
-Follow the instructions of your instructor. You will be folrking this
+Follow the instructions of your instructor. You will be forking this
 repository to your own GitHub account. 
 
 ####Disclaimer
