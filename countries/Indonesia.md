@@ -1,14 +1,14 @@
 ##Indonesia
-## population
+## population 255 million 
 
 
-## capital
-
+## capital 
+Jakarta
  
 ## official language
+bahasa
 
-
-## interesting trivia
-
+## interesting trivia 
+Indonesia has 17000 islands
 
 
